@@ -1,0 +1,18 @@
+.container-fluid {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+hr {
+  background-color: dimgrey !important;
+  color: dimgrey !important;
+  border: solid 1px dimgrey;
+  height: 1px;
+  width: 100%;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
